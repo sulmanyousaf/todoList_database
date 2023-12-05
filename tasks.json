@@ -1,0 +1,22 @@
+[
+  {
+    "id": "d5caf620-b729-434f-a316-792ac66ed5e2",
+    "description": "Task 1",
+    "date": "2023-12-05",
+    "priority": 1,
+    "status": false,
+    "category": "Work",
+    "createdAt": "2023-12-05T07:01:04.384Z",
+    "updatedAt": "2023-12-05T07:01:04.384Z"
+  },
+  {
+    "id": "957dfd8d-b68d-4cb8-91cc-2839bd94cfc6",
+    "description": "Task 2",
+    "date": "2023-12-06",
+    "priority": 2,
+    "status": false,
+    "category": "Personal",
+    "createdAt": "2023-12-05T07:01:04.384Z",
+    "updatedAt": "2023-12-05T07:01:04.384Z"
+  }
+]
